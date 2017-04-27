@@ -1,5 +1,6 @@
 <?php 
 
- echo "hello Bro";
+ echo "hello Bro assalamualaikum";
+ echo "selamat datang bro";
 
  ?>
