@@ -1,6 +1,9 @@
 <?php 
+include 'view/UtamaUI.php';
 
- echo "hello Bro assalamualaikum";
- echo "selamat datang bro";
+$brd = new UtamaUI();
+
+$brd->tampilBerita();
+
 
  ?>
