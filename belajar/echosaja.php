@@ -3,7 +3,7 @@
 	$resep = array (
 					array("buah"=>"pepaya","banyak"=>"1","tambahan"=>"kecap"),
 					array("buah"=>"mangga","banyak"=>"3","tambahan"=>"susu"),
-					array("buah"=>"pisang","banyak"=>"5","tambahan"=>"cappucin")
+					array("buah"=>"pisang","banyak"=>"5","tambahan"=>"keju")
 		);
 
 ?>
